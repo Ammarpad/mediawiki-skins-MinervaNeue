@@ -6,6 +6,7 @@
 			"Gazeb",
 			"Gramo6",
 			"KHMELNYTSKYIA",
+			"Oujon",
 			"Vlad5250"
 		]
 	},
@@ -23,5 +24,6 @@
 	"mobile-frontend-placeholder": "Глядати {{SITENAME}}",
 	"mobile-frontend-random-button": "Трафункова",
 	"mobile-frontend-user-page-member-since": "{{GENDER:$2|Припоїв ся|Припоїла ся}} $1",
-	"minerva-page-actions-editfull": "Едітовати цїлу сторінку"
+	"minerva-page-actions-editfull": "Едітовати цїлу сторінку",
+	"minerva-page-actions-overflow": "Веце"
 }
